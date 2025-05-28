@@ -1,4 +1,3 @@
-import React from 'react';
 import Post from "./components/Post";
 
 import styles from './App.module.css';
