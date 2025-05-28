@@ -1,6 +1,6 @@
 import React from 'react';
 import { fireEvent, render, screen } from '@testing-library/react';
-import PostComments from '.'; 
+import PostComments from '.'; // Nome do componente exportado
 
 describe('Teste para o componente PostComments', () => {
     it('Deve renderizar o componente corretamente', () => {
