@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './Post.module.css';
 
 import PostComments from '../PostComments';
